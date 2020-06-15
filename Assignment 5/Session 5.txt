@@ -1,0 +1,13 @@
+- i=0,j-0, khong chay vong lap j -> voi i=0 in ra 0*
+- i=1,j=0, chay in ra 1*
+  i=1,j=1, khong chay vong lap j -> voi i=1 in ra 1*
+- i=2,j=0, chay in ra 1*
+  i=2,j=1, chay in ra 1*
+  i=2,j=2, khong chay vong lap j -> voi i=2 in ra 2*
+- i=3,j=0, chay in ra 1*
+  i=3,j=1, chay in ra 1*
+  i=3,j=2, chay in ra 1*
+  i=3,j=3, khong chay vong lap j -> voi i=3 in ra 3*
+
+- Tuong tu voi i=4,5,...,9 se in ra 4*,5*...,9*
+ 
